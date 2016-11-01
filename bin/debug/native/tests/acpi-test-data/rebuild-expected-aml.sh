@@ -1,0 +1,1 @@
+/home/ubuntu/pkg/qemu-529d45e/tests/acpi-test-data/rebuild-expected-aml.sh
